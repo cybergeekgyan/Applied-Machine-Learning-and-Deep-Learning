@@ -4,8 +4,6 @@
 
 Welcome to the Applied Machine Learning repository! 
 
-This repository is a comprehensive collection of tutorials, notes, and resources aimed at helping both beginners and experienced data scientists learn and apply machine learning techniques to real-world projects.
-
 ## Summary
 
 Machine learning is revolutionizing various industries, and this repository aims to empower learners with the knowledge and practical skills needed to harness the power of machine learning effectively. Whether you're just starting your machine learning journey or seeking to enhance your existing expertise, you'll find valuable content tailored to your needs.
