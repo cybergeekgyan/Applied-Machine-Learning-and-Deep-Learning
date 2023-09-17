@@ -26,16 +26,18 @@ Machine learning is revolutionizing various industries, and this repository aims
 
 ### Books:
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow]()
-
+- [Python for Data Analysis]()
+- [Mathematics for Machine Learning and Deep Learning]()
 - [Deep Learning]()
-
 - [Python for Probability, Statistics, and Machine Learning]()
-
 - [Pattern Recognition and Machine Learning]()
 
 ### Courses:
 
 - [Machine Learning - Andrew NG]()
+- [Deep Learning Specialization]()
+- [MLOps | Machine Learning Operations Specialization]()
+- [MLOps]()
 
 
 ### Online Platforms and Tutorials:
