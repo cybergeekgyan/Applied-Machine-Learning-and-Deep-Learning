@@ -1,4 +1,4 @@
-# Applied Machine Learning Tutorials and Resources
+# Applied Machine Learning & Deep Learning Tutorials and Resources
 
 ![Applied Machine Learning](link_to_your_image)
 
@@ -10,7 +10,7 @@ Machine learning is revolutionizing various industries, and this repository aims
 
 --> Applied machine learning is a subset of artificial intelligence that focuses on using algorithms and statistical models to enable computer systems to learn from data and make predictions or decisions without explicit programming. 
 
-*In other words, it's about building and deploying practical machine learning solutions to solve real-world problems.*
+*In other words, it's about building and deploying practical machine-learning solutions to solve real-world problems.*
 
 ## Key Features
 
